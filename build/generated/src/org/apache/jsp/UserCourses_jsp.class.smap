@@ -1,0 +1,19 @@
+SMAP
+UserCourses_jsp.java
+JSP
+*S JSP
+*F
++ 0 UserStructure.jsp
+UserStructure.jsp
++ 1 UserCourses.jsp
+UserCourses.jsp
+*L
+1,181:49
+1#1,120:230
+121,6:351
+126,8:357
+134,2:365,3
+136,7:371
+144,2:380
+145,14:382
+*E
